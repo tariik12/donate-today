@@ -1,7 +1,6 @@
 
 *{
-   margin: 0 auto;
-   
+   margin: 0 auto;  
 }
 
 /* Header Style */
@@ -12,15 +11,8 @@ header{
     padding: 230px 450px;
 }
 .head-top{
-
-   
     height: 400px;
-    
-  
-    text-align: center; 
-    
-     
-   
+    text-align: center;  
 }
 
 .head-title{
